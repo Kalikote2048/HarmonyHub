@@ -1,2 +1,2 @@
-const harmony = () => console.log("MelodyMuse Maya's Harmony: Smooth Melody");
+const harmony = () => console.log("DrumDynamo Leo's Harmony: Percussive Beat");
 harmony();
